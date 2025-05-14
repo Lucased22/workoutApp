@@ -1,0 +1,44 @@
+# Xcode
+DerivedData/
+build/
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata/
+
+# SwiftPM
+.build/
+Packages/
+.swiftpm/xcode/package.xcworkspace/
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Carthage
+Carthage/
+
+# Swift
+*.xcodeproj/project.xcworkspace/xcuserdata
+*.xcworkspace/xcuserdata
+*.swiftpm
+*.xcodeproj/project.xcworkspace/
+*.xcuserstate
+
+# Arquivos temporários
+*.moved-aside
+*.swp
+*.lock
+*.xcuserstate
+.DS_Store
+
+# Arquivos de log
+*.log
+
+# Outros
+*.hmap
