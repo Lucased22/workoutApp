@@ -17,5 +17,6 @@ extension ViewCode {
            setupConstraints()
            setupStyle()
        }
+  
 }
  //  Criar o método setup em uma extension do protocolo porque não é possível criar implementações de métodos diretamente no protocolo. Mas, fazendo isso, é possível resumir o setup em uma única chamada de método, setup().
